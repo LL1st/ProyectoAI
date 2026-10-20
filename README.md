@@ -1,2 +1,2 @@
-# ClimateAI
-Una organización dedicada al análisis climático desea utilizar información histórica para comprender la evolución de las temperaturas a nivel global y apoyar la toma de decisiones relacionadas con el comportamiento climático.
+# ProyectoAI
+Después de una inundación, una comunidad necesita encontrar una ruta desde una zona afectada hasta un refugio. El problema parece sencillo: encontrar el camino que conecte ambos puntos. Sin embargo, no todas las zonas son igual de seguras y algunas rutas aparentemente convenientes podrían no ser la mejor opción, porque están inundados.
